@@ -1,0 +1,4 @@
+provider_alias*
+.terraform/
+.terrafom.lock.hcl
+.gitattributes

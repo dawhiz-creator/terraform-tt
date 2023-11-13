@@ -1,0 +1,6 @@
+shared_hosted_zone_name = "shared.mydomain.com"
+gitlab_hosted_zone_name = "gitlab.mydomain.com"
+gitlab_instance_ip="10.17.8.100"
+vpn_hosted_zone_name="vpn.mydomain.com"
+vpn_subdomain="admin."
+vpn_instance_ip="10.17.9.100"
